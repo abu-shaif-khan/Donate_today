@@ -110,3 +110,49 @@ body{
     border-radius: 5px;
     margin: 20px auto 0px;  
   }
+
+
+.donate_plan{
+    text-align: center;
+    width: 100%;
+}
+.donate_plan h1{
+    font-family: 'Inter';
+    font-size: 45px;
+    display: inline-block;
+    margin-top: 136px;
+}
+.donate_plan_desc{
+    font-family: 'Poppins';
+    font-size: 18px;
+    display: inline-block;
+    margin: 0px 200px 0px;
+}
+.plan_card{
+    display: flex;
+    margin-top: 50px;
+    text-align: left;
+    font-size: 'Poppins';
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.plan_item{
+    width: 350px;
+    display: block;
+    padding: 30px 30px;
+    border-radius: 5px;
+    font-family: 'Poppins';
+}
+.plan_item h2{
+    font-size: 24px;
+}
+.plan_item p{
+    font-size: 16px;
+}
+.plan_item_1{
+    background-color: #EEF6F7;
+}
+
+.plan_item_2{
+    background-color: #FFF4D6;
+}
